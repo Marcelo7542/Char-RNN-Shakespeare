@@ -1,3 +1,7 @@
+English description below:
+
+
+
 Treinamento de Modelo de Linguagem com TensorFlow
 
 Neste projeto criei um model que é capaz de prever a próxima sequência de caracteres em textos de Shakespeare e também gerar novas frases com base em entradas fornecidas.
